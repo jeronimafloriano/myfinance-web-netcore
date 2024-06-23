@@ -14,9 +14,11 @@ Uma aplicação web para registro e análise de receitas e despesas de famílias
 - Bootstrap
 
 ## Configuração para Startup do Projeto
+Necessário ter o .Net 8 ou superior, Sql Server e Visual Studio Code instalado.
+
 1. Clone o repositório.
 2. Configure a string de conexão do banco na MyFinanceDbContext.cs caso necessário.
-4. Execute o projeto a partir do Visual Studio.
+4. Execute o projeto a partir do Visual Studio em um terminal dentro da pasta myfinance-web-netcore digitando o comando: dotnet run.
 
 ## Estrutura do Projeto
 - **Controllers:** PlanoContaController, TransacaoController
