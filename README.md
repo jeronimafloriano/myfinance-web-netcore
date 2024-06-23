@@ -31,7 +31,9 @@ Uma aplicação web para registro e análise de receitas e despesas de famílias
 ## Telas do Projeto
 Ao executar o projeto, as telas de listagem de plano de contas e transação serão como:
 <br>
+- Plano de Contas
 ![Plano de Contas](https://github.com/jeronimafloriano/myfinance-web-netcore/blob/main/plano-conta.png)
 <br>
 <br>
+- Transações
 ![Transações](https://github.com/jeronimafloriano/myfinance-web-netcore/blob/main/transacoes.png)
