@@ -35,7 +35,7 @@ Ao executar o projeto, as telas de listagem de plano de contas e transação ser
 <br>
 
 ![Plano de Contas](https://github.com/jeronimafloriano/myfinance-web-netcore/blob/main/plano-conta.png)
-<br>
+
 <br>
 - Transações
 <br>
