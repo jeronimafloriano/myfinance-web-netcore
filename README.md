@@ -15,7 +15,7 @@ Uma aplicação web para registro e análise de receitas e despesas de famílias
 
 ## Configuração para Startup do Projeto
 1. Clone o repositório.
-2. Configure a string de conexão no `appsettings.json`.
+2. Configure a string de conexão do banco na MyFinanceDbContext.cs caso necessário.
 4. Execute o projeto a partir do Visual Studio.
 
 ## Estrutura do Projeto
@@ -31,7 +31,7 @@ Uma aplicação web para registro e análise de receitas e despesas de famílias
 ## Telas do Projeto
 Ao executar o projeto, as telas de listagem de plano de contas e transação serão como:
 <br>
-![Plano de Contas](https://github.com/jeronimafloriano/edtech/blob/main/plano-conta.png)
+![Plano de Contas](https://github.com/jeronimafloriano/myfinance-web-netcore/blob/main/plano-conta.png)
 <br>
 <br>
-![Transações](https://github.com/jeronimafloriano/edtech/blob/main/transacoes.png)
+![Transações](https://github.com/jeronimafloriano/myfinance-web-netcore/blob/main/transacoes.png)
